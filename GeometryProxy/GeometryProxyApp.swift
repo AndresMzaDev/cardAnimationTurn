@@ -11,7 +11,7 @@ import SwiftUI
 struct GeometryProxyApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            Volando()
         }
     }
 }
