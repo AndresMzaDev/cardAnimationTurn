@@ -14,6 +14,7 @@
 		7B52232427AB535400EB4501 /* GeometryProxyTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B52232327AB535400EB4501 /* GeometryProxyTests.swift */; };
 		7B52232E27AB535400EB4501 /* GeometryProxyUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B52232D27AB535400EB4501 /* GeometryProxyUITests.swift */; };
 		7B52233027AB535400EB4501 /* GeometryProxyUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B52232F27AB535400EB4501 /* GeometryProxyUITestsLaunchTests.swift */; };
+		7B52233D27AB55FC00EB4501 /* Volando.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B52233C27AB55FC00EB4501 /* Volando.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		7B52232927AB535400EB4501 /* GeometryProxyUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GeometryProxyUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		7B52232D27AB535400EB4501 /* GeometryProxyUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeometryProxyUITests.swift; sourceTree = "<group>"; };
 		7B52232F27AB535400EB4501 /* GeometryProxyUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeometryProxyUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		7B52233C27AB55FC00EB4501 /* Volando.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Volando.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 				7B52231427AB535300EB4501 /* ContentView.swift */,
 				7B52231627AB535400EB4501 /* Assets.xcassets */,
 				7B52231827AB535400EB4501 /* Preview Content */,
+				7B52233C27AB55FC00EB4501 /* Volando.swift */,
 			);
 			path = GeometryProxy;
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7B52231527AB535300EB4501 /* ContentView.swift in Sources */,
+				7B52233D27AB55FC00EB4501 /* Volando.swift in Sources */,
 				7B52231327AB535300EB4501 /* GeometryProxyApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
